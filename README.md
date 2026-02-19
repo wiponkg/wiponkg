@@ -22,14 +22,107 @@ Sempre buscando evoluir tecnicamente e construir projetos sólidos.
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind • Bootstrap • SASS
+<table align="center">
+<tr>
+<td align="center" width="100">
 
-### 🧠 Backend
-PHP • Laravel • Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br>
+HTML
 
-### ⚙️ Ferramentas
-Git • GitHub
+</td>
+<td align="center" width="100">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br>
+CSS
+
+</td>
+<td align="center" width="100">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br>
+JavaScript
+
+</td>
+<td align="center" width="100">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/><br>
+TypeScript
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br>
+React
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/><br>
+Next.js
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/><br>
+Tailwind
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/><br>
+Bootstrap
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45"/><br>
+SASS
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br>
+PHP
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45"/><br>
+Laravel
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>
+Python
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>
+Git
+
+</td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br>
+GitHub
+
+</td>
+<td></td>
+<td></td>
+</tr>
+
+</table>
+
 
 ---
 
