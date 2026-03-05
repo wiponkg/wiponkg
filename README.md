@@ -126,14 +126,6 @@ GitHub
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wiponkg" />
-</p>
-
----
-
 ## 🎯 Objetivo
 
 Busco oportunidades de estágio na área de desenvolvimento para aplicar meus conhecimentos, aprender com profissionais experientes e evoluir como desenvolvedor.
