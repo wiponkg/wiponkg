@@ -132,11 +132,6 @@ GitHub
   <img src="https://streak-stats.demolab.com?user=wiponkg" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/wiponkg" />
-</p>
-
-
 ---
 
 ## 🎯 Objetivo
