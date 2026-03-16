@@ -136,6 +136,7 @@ Busco oportunidades de estágio na área de desenvolvimento para aplicar meus co
 
 - GitHub: https://github.com/wiponkg
 - Instagram: https://www.instagram.com/g9mes_william/
+- Linkedin: www.linkedin.com/in/william-jose-gomes-pinto-junior-81a39826a
 
 ---
 
